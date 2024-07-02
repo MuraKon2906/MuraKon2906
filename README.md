@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MuraKon2906</h1>
 <h3 align="center">I'm passionate about deep learning 🧠, AI 🤖, game development 🎮, DevOps ⚙️, and various miscellaneous projects 🌟. I love exploring innovative solutions and building next-gen applications. Check out my projects to see what I'm working on!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murakon" alt="murakon" /></a> </p>
+
 
 - 🌱 I’m currently learning **Tensorflow , React**
 
