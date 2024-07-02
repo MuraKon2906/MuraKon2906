@@ -2,7 +2,7 @@
 <h3 align="center">I'm passionate about deep learning 🧠, AI 🤖, game development 🎮, DevOps ⚙️, and various miscellaneous projects 🌟. I love exploring innovative solutions and building next-gen applications. Check out my projects to see what I'm working on!</h3>
 
 
-
+<img align ="right" alt="retro" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif">
 - 🌱 I’m currently learning **Tensorflow , React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuraKon2906](https://github.com/MuraKon2906)
