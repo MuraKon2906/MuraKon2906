@@ -2,7 +2,7 @@
 <h3 align="center">I'm passionate about deep learning 🧠, AI 🤖, game development 🎮, DevOps ⚙️, and various miscellaneous projects 🌟. I love exploring innovative solutions and building next-gen applications. Check out my projects to see what I'm working on!</h3>
 
 
-<img align ="right" alt="retro" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif">
+<img align ="right" alt="retro" width="400" src="https://www.google.com/imgres?q=gifs&imgurl=https%3A%2F%2Feurope1.discourse-cdn.com%2Ffigma%2Foriginal%2F3X%2F7%2F1%2F7105e9c010b3d1f0ea893ed5ca3bd58e6cec090e.gif&imgrefurl=https%3A%2F%2Fforum.figma.com%2Ft%2Feasily-copy-and-paste-animated-giffs-in-figjam-like-you-can-in-miro%2F65339&docid=_lHLee7RzdIXKM&tbnid=1HgvkAv0LBXdCM&vet=12ahUKEwib89eD0YeHAxUTRmcHHffaCxAQM3oECBUQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwib89eD0YeHAxUTRmcHHffaCxAQM3oECBUQAA">
 - 🌱 I’m currently learning **Tensorflow , React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuraKon2906](https://github.com/MuraKon2906)
