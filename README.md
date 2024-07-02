@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm passionate about deep learning 🧠, AI 🤖, game development 🎮, DevOps ⚙️, and various miscellaneous projects 🌟. I love exploring innovative solutions and building next-gen applications. Check out my projects to see what I'm working on!<br><br>🌱 I’m currently learning TensorFlow and React.<br><br>💬 Ask me about TensorFlow and FastAPI.<br><br>🔍 Looking to collaborate on various deep learning projects, data science, and Rust-based projects.<br><br>🚀 I'm looking for help with developing and setting up open source projects (I have got some ideas 🙂).<br><br>📫 How to reach me konmura2906@protonmail.com
 
+![](https://github.com/MuraKon2906/MuraKon2906/blob/main/n8agw6z2smyb1%20(1).gif)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaan-farooqui-2740622) 
 
